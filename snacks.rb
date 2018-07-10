@@ -1,1 +1,1 @@
-def breakfast(food=)
+def breakfast(food=" Frosted Flakes")
