@@ -1,29 +1,40 @@
 
 
 def snacks(food="swedish fish")
-puts " Snack is the best time for #{food}!"
+   " Snack is the best time for #{food}!"
 end
 
-snacks ("swedish fish")
+snacks 
 
 def breakfast(food="frosted flakes")
-puts "Breakfast is the best time for #{food}!"
+   "Breakfast is the best time for #{food}!"
 end 
 
-breakfast ("frosted flakes")
+breakfast 
 
 def lunch(food="grilled cheese")
-  puts "Lunch is the best time for #{food}!"
+     "Lunch is the best time for #{food}!"
 end
 
-lunch ("grilled cheese")
+lunch 
 
 def dinner(food="salmon")
-puts "Dinner is the best time for #{food}!"
+   "Dinner is the best time for #{food}!"
 end
 
-dinner ("salmon")
+dinner 
 
+
+
+puts snacks("candy")
+puts breakfast("pancakes")
+puts lunch("chicken")
+puts dinner("sushi")
+
+puts snacks
+puts breakfast
+puts lunch
+puts dinner
 
 
 
