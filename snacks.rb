@@ -1,2 +1,2 @@
 def breakfast(food="Frosted Flakes")
-puts 
+puts "Morning is the best time for scrambled eggs" #
