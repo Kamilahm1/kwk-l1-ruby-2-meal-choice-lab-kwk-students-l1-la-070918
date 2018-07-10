@@ -10,8 +10,8 @@ end
 
 lunch ("Grilled Cheese")
 
-def dinner(food="Salmon")
+def dinner(food="salmon")
 puts "Dinner is the best time for #{food}!"
 end
 
-dinner("Salmon")
+dinner("salmon")
